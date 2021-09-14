@@ -1,0 +1,15 @@
+Problema.
+Preparar una michelada de un litro para quitar la sed.
+
+Análisis.
+•	Entrada: 1 caguama, 1 vaso de un litro, 2 piscas de sal, medio vaso de jugo de limón chico y un recipiente con chamoy.
+•	Restricciones: Tener todos los ingredientes.
+•	Salida: Tener éxito en quitar la sed.
+
+Diseño.
+1.	Inicio.
+2.	Tomar el vaso de un litro y escarchar la boca de este en el recipiente con chamoy.
+3.	Vaciar el medio vaso de jugo de limón en el vaso de un litro en donde irá la caguama.
+4.	Después, agregar las 2 piscas de sal en el vaso de un litro.
+5.	Por último, vaciar la caguama de forma inclinada en el vaso para evitar que se haga mucha espuma.
+6.	Fin.
