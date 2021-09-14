@@ -1,0 +1,16 @@
+PREPARAR UNA QUESADILLA DE QUESO.
+ANALISIS. 
+Entrada: 1 tortilla de harina, 1/5 de quesillo, 2 cucharadas soperas de salsa, 1/6 de lechuga picada, plato extendido, estufa, gas, encendedor, sartén pequeño.  
+Restricciones: Que se tengan todos los ingredientes. 
+Salida:  Una quesadilla con lechuga y salsa. 
+DISEÑO: 
+1-	Inicio 
+2-	Prender la estufa y poner el sartén a calentar. 
+3-	Colocar la tortilla sobre el sartén caliente, agregar el quesillo y doblar por la mitad
+4-	Dar la vuelta cada 10 segundos. 
+5-	¿Esta derretido el quesillo? 
+•	Si, ir al paso 6.
+•	No, regresa al paso 4. 
+6-	Retirar del sartén la quesadilla y colocarla sobre el plato extendido y abrirla. 
+7-	Colocar la lechuga y la salsa.
+8-	Fin. 
